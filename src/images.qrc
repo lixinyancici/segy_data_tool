@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>image/about.png</file>
+        <file>image/app.png</file>
+        <file>image/close.png</file>
+        <file>image/export.png</file>
+        <file>image/inversion.png</file>
+        <file>image/open.png</file>
+        <file>image/norm.png</file>
+        <file>image/smile.png</file>
+    </qresource>
+</RCC>

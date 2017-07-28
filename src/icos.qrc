@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file>ico/about.png</file>
+        <file>ico/close.png</file>
+        <file>ico/inversion.png</file>
+        <file>ico/open.png</file>
+        <file>ico/wiggle.png</file>
+    </qresource>
+</RCC>
